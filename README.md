@@ -1,5 +1,7 @@
 # Exam-Rank-03
 
+J'ai repris le code du github de @Pasqualerossi
+
 # ft_printf
 > int  ft_printf(const char *s, ...);
 >   penser au cas NULL: return (-1);
